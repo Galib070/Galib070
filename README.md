@@ -1,4 +1,4 @@
-![Web Developer/Graphics Designer/Digital Marketer/Programmer ](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/313077798_503208708350274_3697242379516768333_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHfjYoeiLVMGOntaaC2-fvC9V--IM4E3aX1X74gzgTdpQW9H9bagxjLzgBVL6sFOZ6E4Q740uFTTECNGfW-iVF_&_nc_ohc=jU4F1EbF8_0AX9RlOt1&_nc_ht=scontent.fdac136-1.fna&oh=00_AT9qIdW8bQLlc_zgsCNlLOMWvBQOTszSVbrnAcCcjkFh5w&oe=635C83A5)
+
 ### Hi there 👋, I'm Md.Galib
 #### Web Developer/Graphics Designer/Digital Marketer/Programmer 
 
