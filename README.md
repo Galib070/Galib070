@@ -1,5 +1,5 @@
 ![logo](https://github.com/Galib070/Galib070/blob/main/Blue%20Green%20Modern%20Geometric%20Shapes%20Gaming%20Channel%20Facebook%20Cover%20(1).png)
-<h1 align="center">Hi 👋, I'm Galib</h1>
+<h1 align="center">I'm Galib</h1>
 <h3 align="center">A passionate Web Developer/Graphics Designer/Digital Marketer/Programmer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
